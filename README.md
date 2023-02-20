@@ -19,7 +19,7 @@
 [<img alt="IntelliJ" src="https://img.icons8.com/color/48/000000/intellij-idea.png" width="40px"/>][jetbrain]
 
 [<img alt="Visual Studio Code" src="https://img.icons8.com/fluent/40/000000/visual-studio-code-2019.png">][vscode]
-[<img alt="Visual Studio" src="https://img.icons8.com/fluent/48/000000/visual-studio-2019.png" width="40px"/>][vs]
+[<img alt="Visual Studio" src="[https://img.icons8.com/fluent/48/000000/visual-studio-2019.png](https://img.icons8.com/fluency/48/null/visual-studio.png)" width="40px"/>][vs]
 [<img alt="Docker" src="https://img.icons8.com/color/480/000000/docker.png" width="40px"/>][docker]
 
 [<img src="https://img.icons8.com/fluency/40/000000/affinity-designer.png"/>][affinity]
