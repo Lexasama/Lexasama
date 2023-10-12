@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Axel AKA Lexasama
 
-## I'm a Software Engineer student at [INTECH][intech]
+## I'm a Software Engineer gradueted from [INTECH][intech]
 
 ## I speak French & English
 
